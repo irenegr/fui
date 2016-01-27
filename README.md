@@ -1,4 +1,4 @@
 # fui
-A light theme, by fog
+A light gtk2/3 and openbox theme, by fog.
 
-Based on Color UI based on Flatts.
+Based on Color UI and Flatts.
