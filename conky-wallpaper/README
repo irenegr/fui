@@ -5,7 +5,7 @@ conky, dzen2, curl, aptitude
 
 Copy  dzicons folder and conkyrc_dzen_mine inside .conky folder.
 Rename scripts folder .scripts and copy it inside your home.
-Change paths, country codes, dimensions for your screen and username/password (NOT SECURE they are in plain text format) for your needs. 
+Change paths, country codes, dimensions for your screen and username/password (NOT SECURE they are in PLAIN TEXT format) for your needs. 
 Make dzenbar.sh executable, put it somewhere at yout path and add it to  autostart.
 
 Enjoy.
