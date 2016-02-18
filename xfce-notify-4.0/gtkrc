@@ -10,7 +10,7 @@ style "notify-window" {
 }
 
 style "notify-text" {
-    GtkWidget::link-color = "#d64937"
+    GtkWidget::link-color = "#A52A2A"
 
     fg[NORMAL] = "#78797A"
     fg[PRELIGHT] = "#78797A"
